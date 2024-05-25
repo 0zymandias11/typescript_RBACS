@@ -1,6 +1,7 @@
 # typescript_RBACS
 
-run the follwoing commands in orderL:
+run the follwoing commands in order:
+
 1.) npm install
 
 2.) npm migrate 
